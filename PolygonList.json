@@ -22,10 +22,10 @@
     },
     {
       "chainId": 137,
-      "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
-      "name": "ETHBTC PolyStrategy",
-      "symbol": "RATIO",
-      "decimals": 18,
+      "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+      "name": "TEL",
+      "symbol": "TEL",
+      "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg"
     },
     {
