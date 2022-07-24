@@ -30,9 +30,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
-      "name": "DEX Innovation Index",
-      "symbol": "DEX",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "WETH",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
     },
