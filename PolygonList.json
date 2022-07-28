@@ -61,9 +61,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x30f7f094fdbfefD9B62DeAcc4dCd881ba5ce7c1c",
-      "name": "The Wojak Index",
-      "symbol": "WOJAK",
+      "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+      "name": "VOXEL",
+      "symbol": "VOXEL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg"
     },
