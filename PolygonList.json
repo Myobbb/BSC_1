@@ -53,10 +53,10 @@
     },
     {
       "chainId": 137,
-      "address": "0x00C143b546b6A66bb37217917Ba99A7F4B60c55a",
-      "name": "PermaBear Index",
-      "symbol": "BEAR",
-      "decimals": 18,
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
     },
     {
