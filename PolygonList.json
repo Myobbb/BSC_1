@@ -77,9 +77,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x065f56d750470df14f3CA888c00594d38530be9b",
-      "name": "Polymorphic Growth Index",
-      "symbol": "PGI",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "name": "USDT",
+      "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pgi_token_logo.png"
     },
