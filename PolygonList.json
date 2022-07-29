@@ -80,14 +80,14 @@
       "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pgi_token_logo.png"
     },
     {
       "address": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
       "name": "CHAMP",
       "symbol": "CHAMP",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
     },
     {
