@@ -84,6 +84,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pgi_token_logo.png"
     },
     {
+      "chainId": 137,
       "address": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
       "name": "CHAMP",
       "symbol": "CHAMP",
