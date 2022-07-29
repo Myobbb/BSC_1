@@ -69,9 +69,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
-      "name": "PolySwing BTC Strategy",
-      "symbol": "SWING",
+      "address": "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc",
+      "name": "ZED",
+      "symbol": "ZED",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/swing.png"
     },
