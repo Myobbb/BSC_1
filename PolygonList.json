@@ -93,9 +93,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x3eC2000dC2AE3550AC6d82202E04a3993eb8510A",
-      "name": "Degen Bot",
-      "symbol": "DB",
+      "address": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
+      "name": "RVLT",
+      "symbol": "RVLT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Degen_bot.png"
     },
