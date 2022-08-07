@@ -102,9 +102,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xd890bE1E284126c47a13cC082F641c9b27B6dCc1",
-      "name": "Tri-element of Polygon",
-      "symbol": "TRPL",
+      "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+      "name": "Affyn",
+      "symbol": "FYN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TRPL-HugLu.png"
     },
