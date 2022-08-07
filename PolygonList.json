@@ -101,22 +101,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
-      "name": "FYN",
-      "symbol": "FYN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DEFI8.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b",
-      "name": "NITRO",
-      "symbol": "NITRO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
-    },
-    {
-      "chainId": 137,
       "address": "0xe1d850218b11887b4Ce1D8a4d7D9Ed37C6E1610b",
       "name": "Zer0range Index",
       "symbol": "ZER0",
