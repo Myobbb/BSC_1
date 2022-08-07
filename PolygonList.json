@@ -37,13 +37,6 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
     },
     {
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "name": "WMATIC",
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
-    },
-    {
       "chainId": 137,
       "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
       "name": "QUICK",
