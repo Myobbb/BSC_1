@@ -109,9 +109,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
-      "name": "CMI Index",
-      "symbol": "CMI",
+      "address": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b",
+      "name": "NITRO,
+      "symbol": "NITRO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
     },
