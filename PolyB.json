@@ -110,9 +110,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xC097170E839dD8D9c52b4B8352946bc671f2628E",
-      "name": "DeFi Phoenix Index",
-      "symbol": "DFPHX",
+      "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
+      "name": "Stader",
+      "symbol": "SD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/6XO3KEJ5_400x400.jpg"
     },
