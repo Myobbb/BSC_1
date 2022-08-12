@@ -59,6 +59,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+      "name": "SD",
+      "symbol": "SD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266"
+    },
+    {
+      "chainId": 1,
       "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
       "name": "Aergo",
       "symbol": "AERGO",
