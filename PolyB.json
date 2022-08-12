@@ -118,9 +118,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x1ba804130D73649293c39912a304F6b471D38179",
-      "name": "sambusak",
-      "symbol": "SAMBU",
+      "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+      "name": "PSP",
+      "symbol": "PSP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/E.png"
     },
