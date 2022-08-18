@@ -118,9 +118,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
-      "name": "PSP",
-      "symbol": "PSP",
+      "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+      "name": "BLOK",
+      "symbol": "BLOK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/E.png"
     },
