@@ -126,9 +126,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xF75BdDd08d79040A46150e6afF9Fec53D28Ba13F",
-      "name": "Undervalued DeFi Base",
-      "symbol": "UDB",
+      "address": "0xe20D2Df5041f8Ed06976846470f727295cDd4D23",
+      "name": "BIOS",
+      "symbol": "BIOS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/undervalued.jpg"
     },
