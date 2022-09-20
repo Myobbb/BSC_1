@@ -134,9 +134,9 @@
     },
     {
       "chainId": 137,
-      "address": "0xAE281f38dDf402497e922FA67b1559A7931E7d81",
-      "name": "MACRO Blue Chip",
-      "symbol": "MACRO",
+      "address": "0xBF9f916bBda29A7F990F5F55c7607D94D7C3A60b",
+      "name": "DEFY",
+      "symbol": "DEFY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1-Blue-Chip-600x315.jpeg"
     },
