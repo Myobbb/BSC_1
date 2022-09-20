@@ -142,9 +142,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x5B8510a1449CED5e14bc7050a54B945442f5d5B9",
-      "name": "SAGA DeFi Crypto Fund K2",
-      "symbol": "SAGA2",
+      "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+      "name": "MV",
+      "symbol": "MV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
     },
