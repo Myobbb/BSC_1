@@ -158,9 +158,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x29CAF1091958083fC9D67d1D24F5b3901963e840",
-      "name": "Singularity Index",
-      "symbol": "NDU",
+      "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+      "name": "PSP",
+      "symbol": "PSP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/singularity_logo.png"
     },
