@@ -150,9 +150,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x6862F415d9498458458C4C2Fa9BE481b13e4A25A",
-      "name": "SAGA DeFi Crypto Strategy K1",
-      "symbol": "SAGA1",
+      "address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
+      "name": "COT",
+      "symbol": "COT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA1_100x100.png"
     },
